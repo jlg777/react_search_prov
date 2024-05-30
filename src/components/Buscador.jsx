@@ -10,6 +10,7 @@ const Buscador = ({ setInputFilter }) => {
       <label htmlFor="buscador">Ingrese el proveedor</label>
       <input type="text" name="buscador" id="buscador" onChange={handleInput} />
       <br />
+      <br />
     </>
   );
 };
