@@ -7,7 +7,7 @@ const Buscador = ({ setInputFilter }) => {
   return (
     <>
       <img
-        src="./public/MARCA_JOSENUCETEHIJOS_2019-3.jpg"
+        src="./MARCA_JOSENUCETEHIJOS_2019-3.jpg"
         alt=""
         style={{ height: "100px", width: "100px" }}
       />
