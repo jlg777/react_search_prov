@@ -37,7 +37,9 @@ const Resultados = ({ inputFilter }) => {
           </div>
         ))
       ) : (
-        <h3>No hay resultados</h3>
+        <div style={{ border: "1px solid" }}>
+          <h3 style={{ color: "red" }}>¡No hay resultados!</h3>
+        </div>
       )}
     </div>
   );
