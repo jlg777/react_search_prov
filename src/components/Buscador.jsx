@@ -13,7 +13,13 @@ const Buscador = ({ setInputFilter }) => {
       />
       <h2>BUSCADOR DE PROVEEDORES</h2>
       <label htmlFor="buscador">Ingrese el proveedor</label>
-      <input type="text" name="buscador" id="buscador" onChange={handleInput} />
+      <input
+        type="text"
+        name="buscador"
+        id="buscador"
+        onChange={handleInput}
+        autocomplete="off"
+      />
       <br />
       <br />
     </>
