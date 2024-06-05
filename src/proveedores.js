@@ -86,7 +86,7 @@ const proveedores = [
   { nombre: "CENA MARCELO JAVIER", correo: "marcelojaviercena@gmail.com" },
   {
     nombre: "CERRO INDUMENTARIA",
-    correo: "mza@cerroindentaria.com.ar",
+    correo: "mza@cerroindumentaria.com.ar",
     correo2: "ventaspymes@cerroindumentaria.com.ar",
   },
   { nombre: "CHEMICAL CENTER", correo: "atriguy@chemicalcenter.com.ar" },
