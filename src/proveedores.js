@@ -84,7 +84,11 @@ const proveedores = [
   { nombre: "CARTOCOR", correo: "jmones@arcor.com" },
   { nombre: "CECCARELLI PAOLA", correo: "ccconsultoracalidad@gmail.com" },
   { nombre: "CENA MARCELO JAVIER", correo: "marcelojaviercena@gmail.com" },
-  { nombre: "CERRO INDUMENTARIA", correo: "ventas2@cerroindumentaria.com.ar" },
+  {
+    nombre: "CERRO INDUMENTARIA",
+    correo: "mza@cerroindentaria.com.ar",
+    correo2: "ventaspymes@cerroindumentaria.com.ar",
+  },
   { nombre: "CHEMICAL CENTER", correo: "atriguy@chemicalcenter.com.ar" },
   { nombre: "CLARA DEL VALLE", correo: "graficakogan@hotmail.com" },
   { nombre: "COLO ALBERTO", correo: "ferreteriamendoza06@gmail.com" },
