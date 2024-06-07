@@ -1,5 +1,10 @@
 const proveedores = [
   {
+    nombre: "ABEL A. CANGIALOSI Y JOSE L. CANGIALOSI SH",
+    correo: "noeliacangialosi@gmail.com",
+    correo2: "transportecangialosi@yahoo.com.ar",
+  },
+  {
     nombre: "ACCOR HOSPITALITY ARGENTINA S.A",
     correo: "carolina.ufano@accor.com",
   },
