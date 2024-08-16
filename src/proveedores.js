@@ -123,8 +123,8 @@ const proveedores = [
     nombre: 'DUTCH STARCHES INTERNACIONAL S.A.',
     correo: 'cobranzas@dsi-arg.com.ar'
   },
-  { nombre: 'EDEMSA', correo: 'CContreras@edemsa.com' },
-  { nombre: 'EDEMSA', correo: 'recaudaciones@edemsa.com' },
+  { nombre: 'EDEMSA', correo: 'CContreras@edemsa.com', correo2: 'recaudaciones@edemsa.com' },
+
   { nombre: 'ELARTE SERVICIOS S.A', correo: 'caguayo@elarteseguridad.com.ar' },
   { nombre: 'ELECTRO DORREGO S.A.', correo: 'admin@electro-dorrego.com.ar' },
   { nombre: 'EMRRO', correo: 'lonascanilla@gmail.com' },
