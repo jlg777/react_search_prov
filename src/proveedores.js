@@ -162,6 +162,11 @@ const proveedores = [
   { nombre: 'HABASIT', correo: 'facturacion@habasit.com.ar' },
   { nombre: 'HENRY HIRSCHEN Y CIA S.A', correo: 'sabrinai@hirschen.com.ar' },
   {
+    nombre: 'HERRAMIENTAS S.R.L',
+    correo: 'herramientas_industria@hotmail.com',
+    correo2: 'herramientasservis@outlook.com.ar'
+  },
+  {
     nombre: 'INAP S.R.L',
     correo: 'ventas@inapar.com.ar',
     correo2: 'vgaray@inapar.com.ar'
