@@ -49,8 +49,7 @@ const proveedores = [
   },
   {
     nombre: 'BALDINELLI GUERINO RAUL',
-    correo: 'ricardojaltamore@gmail.com',
-    correo2: 'raltamore@indias.com.ar'
+    correo: 'aalvarez@indias.coml.ar '
   },
   { nombre: 'BAMORE S.R.L', correo: 'info@bamore.com.ar' },
   { nombre: 'BARBERIS', correo: 'barberiscristian@gmail.com' },
