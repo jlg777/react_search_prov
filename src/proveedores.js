@@ -320,7 +320,7 @@ const proveedores = [
   { nombre: 'WESTRONIC', correo: 'westronicdatos@gmail.com' },
   { nombre: 'WINNER', correo: 'pabloventas@winnersrl.com.ar' },
   { nombre: 'WITJETCOD', correo: 'serviciosindustrialescordoba@gmail.com' },
-  { nombre: 'XFLY', correo: 'cobros@xfly.com.ar' },
+  { nombre: 'XFLY', correo: 'ventas@xfly.com.ar' },
   { nombre: 'ZAPATA GOMA S.A', correo: 'contablezapatagoma@gmail.com' }
 ]
 
