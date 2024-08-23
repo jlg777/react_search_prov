@@ -205,6 +205,7 @@ const proveedores = [
     correo: 'facturacion.lq@lquimicos.com.ar'
   },
   { nombre: 'LAMA HERMINIO ALBERTO', correo: 'resorteslama@hotmail.com' },
+  { nombre: 'LAROCCA NEUMATICOS S.A', correo: 'comprobantes@larocca.com.ar' },
   { nombre: 'LIVLASA', correo: 'info@livlasa.com' },
   { nombre: 'MAG S.R.L', correo: 'administracion@magsrl.com.ar' },
   { nombre: 'MANTELLO NEUMATICO S.A', correo: 'mantello@infovia.com.ar' },
