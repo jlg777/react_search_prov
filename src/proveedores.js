@@ -235,6 +235,7 @@ const proveedores = [
     correo2: '1900carignano@gmail.com'
   },
   { nombre: 'MEGAENVASES S.A', correo: 'admin2@mega-envases.com.ar' },
+  { nombre: 'METALVID S.A', correo: 'bejartap@gmail.com' },
   {
     nombre: 'MILIOTTO MARCOS JAVIER',
     correo: 'electromecanicamarcosmiliotto@gmail.com'
@@ -302,7 +303,7 @@ const proveedores = [
   { nombre: 'SUR INSUMOS', correo: 'administracion@disurmza.com' },
   { nombre: 'SURFACTAN', correo: 'dbertolini@surfactan.com.ar' },
   { nombre: 'TAKSA S.A', correo: 'ventas@taksa.com.ar' },
-  {nombre: 'TB LOGISTICA S.R.L', correo: 'info.mendoza@tblogistica.com'},
+  { nombre: 'TB LOGISTICA S.R.L', correo: 'info.mendoza@tblogistica.com' },
   {
     nombre: 'TELEFONICA MOVILES DE ARGENTINA',
     correo: 'miguel.quagliarella@telefonica.com'
