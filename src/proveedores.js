@@ -302,6 +302,7 @@ const proveedores = [
   { nombre: 'SUR INSUMOS', correo: 'administracion@disurmza.com' },
   { nombre: 'SURFACTAN', correo: 'dbertolini@surfactan.com.ar' },
   { nombre: 'TAKSA S.A', correo: 'ventas@taksa.com.ar' },
+  {nombre: 'TB LOGISTICA S.R.L', correo: 'info.mendoza@tblogistica.com'},
   {
     nombre: 'TELEFONICA MOVILES DE ARGENTINA',
     correo: 'miguel.quagliarella@telefonica.com'
