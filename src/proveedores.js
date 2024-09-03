@@ -37,6 +37,7 @@ const proveedores = [
   },
   { nombre: 'ARDISON SOFTWARE S.R.L', correo: 'jguillaume@ardison.com' },
   { nombre: 'AREOPAGO S.A', correo: 'daniel@areopagosa.com.ar' },
+  { nombre: 'ARGESWATER S.A', correo: 'info@argeswater.com.ar' },
   {
     nombre: 'ARNORIAGA JUAN DANIEL',
     correo: 'administracion@arnoriaga.com.ar'
@@ -126,7 +127,7 @@ const proveedores = [
 
   { nombre: 'ELARTE SERVICIOS S.A', correo: 'caguayo@elarteseguridad.com.ar' },
   { nombre: 'ELECTRO DORREGO S.A.', correo: 'admin@electro-dorrego.com.ar' },
-  {nombre: 'ELECTROMECANICA SASSO S.A', correo: 'gladys.becerra@elesasso.com'},
+  { nombre: 'ELECTROMECANICA SASSO S.A', correo: 'gladys.becerra@elesasso.com' },
   { nombre: 'ELECTRICIDAD MAZA S.R.L', correo: 'centro@electricidadmaza.com.ar' },
   { nombre: 'EMRRO', correo: 'lonascanilla@gmail.com' },
   { nombre: 'EP MARTINELLI S.A.S', correo: 'epmartinelli@gmail.com' },
