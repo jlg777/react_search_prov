@@ -60,7 +60,7 @@ const proveedores = [
     correo: 'contabilidad@barbat.com',
     correo2: 'fbelfiore@barbat.com'
   },
-  { nombre: 'BARROS Y DI MATTEO SRL', correo },
+  { nombre: 'BARROS Y DI MATTEO SRL', correo: 'metalurgica_barrosydimatteo@yahoo.com.ar' },
   { nombre: 'BIOTEC S.A', correo: 'hdcalde@gmail.com' },
   { nombre: 'BLANCO DANIEL ORLANDO', correo: 'blancodaniel071@gmail.com' },
   {
