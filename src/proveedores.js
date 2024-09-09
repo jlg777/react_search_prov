@@ -10,7 +10,7 @@ const proveedores = [
   },
   { nombre: 'ACEROS CUYO', correo: 'ventas@aceroscuyosrl.com.ar' },
   { nombre: 'ACLIA', correo: 'maderas.iguazu2019@gmail.com' },
-  {nombre: 'AGROMAQ SAN JUAN S.A', correo: 'kevmartinez@agromaqsanjuan.com'},
+  { nombre: 'AGROMAQ SAN JUAN S.A', correo: 'kevmartinez@agromaqsanjuan.com' },
   {
     nombre: 'AGRO COSECHA',
     correo: 'administracion1@agrocosecha.com.ar',
@@ -60,6 +60,7 @@ const proveedores = [
     correo: 'contabilidad@barbat.com',
     correo2: 'fbelfiore@barbat.com'
   },
+  { nombre: 'BARROS Y DI MATTEO SRL', correo },
   { nombre: 'BIOTEC S.A', correo: 'hdcalde@gmail.com' },
   { nombre: 'BLANCO DANIEL ORLANDO', correo: 'blancodaniel071@gmail.com' },
   {
