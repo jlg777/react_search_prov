@@ -10,6 +10,7 @@ const proveedores = [
   },
   { nombre: 'ACEROS CUYO', correo: 'ventas@aceroscuyosrl.com.ar' },
   { nombre: 'ACLIA', correo: 'maderas.iguazu2019@gmail.com' },
+  {nombre: 'AGROMAQ SAN JUAN S.A', correo: 'kevmartinez@agromaqsanjuan.com'},
   {
     nombre: 'AGRO COSECHA',
     correo: 'administracion1@agrocosecha.com.ar',
