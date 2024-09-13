@@ -129,6 +129,7 @@ const proveedores = [
 
   { nombre: 'ELARTE SERVICIOS S.A', correo: 'caguayo@elarteseguridad.com.ar' },
   { nombre: 'ELECTRO DORREGO S.A.', correo: 'admin@electro-dorrego.com.ar' },
+  {nombre: 'ELECTRONICA MENDOZA S.A', correo: 'ventas@electronicamendoza.com.ar'},
   { nombre: 'ELECTROMECANICA SASSO S.A', correo: 'gladys.becerra@elesasso.com' },
   { nombre: 'ELECTRICIDAD MAZA S.R.L', correo: 'centro@electricidadmaza.com.ar' },
   { nombre: 'EMRRO', correo: 'lonascanilla@gmail.com' },
@@ -224,6 +225,7 @@ const proveedores = [
     correo: 'jmarnetto@estudiomarnetto.com.ar'
   },
   { nombre: 'MARONI C', correo: 'cecilia.moncayo@maroni-c.com.ar' },
+  { nombre: 'MAS ELECTRO URQUIZA S.A', correo: 'maselectrourquiza@gmail.com' },
   { nombre: 'MARTIN GUSTAVO ERNESTO', correo: 'crisaprotege@gmail.com' },
   {
     nombre: 'MARTINEZ JORGE JAVIER',
