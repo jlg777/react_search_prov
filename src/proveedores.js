@@ -278,6 +278,7 @@ const proveedores = [
     nombre: 'RODAMIENTOS AVENIDA S.A',
     correo: 'cobranzas@rodamientosavenida.com.ar'
   },
+  {nombre: 'GAGLIANO GUSTAVO', correo: 'cobranzas@rodamientosbrasil.com'},
   { nombre: 'RODAMIENTOS CUYO', correo: 'gescames@rodamientoscuyo.coM' },
   { nombre: 'RODIN SRL', correo: 'dcappella@rodinsrl.com.ar' },
   {
