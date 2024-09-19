@@ -133,7 +133,7 @@ const proveedores = [
   { nombre: 'ELECTRONICA MENDOZA S.A', correo: 'ventas@electronicamendoza.com.ar' },
   { nombre: 'ELECTROMECANICA SASSO S.A', correo: 'gladys.becerra@elesasso.com' },
   { nombre: 'ELECTRICIDAD MAZA S.R.L', correo: 'centro@electricidadmaza.com.ar' },
-  { nombre: 'EMRRO', correo: 'lonascanilla@gmail.com' },
+  { nombre: 'EMMRO', correo: 'lonascanilla@gmail.com' },
   { nombre: 'EP MARTINELLI S.A.S', correo: 'epmartinelli@gmail.com' },
   { nombre: 'EQUIPOS COMPACTOS S.A', correo: 'aletomba@hotmail.com' },
   { nombre: 'ESTECMA S.A', correo: 'luciano.bagnato@estecma.com.ar' },
