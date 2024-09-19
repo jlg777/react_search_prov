@@ -259,6 +259,7 @@ const proveedores = [
   { nombre: 'PASTOR BARONI S.R.L', correo: 'claudia70_aguirre@hotmail.com' },
   { nombre: 'PETROQUIMICA RIO TERCERO', correo: 'grodriguez@pr3.com.ar' },
   { nombre: 'PINTURERIA COLOR', correo: 'pintureriacolorsa@gmail.com' },
+  { nombre: 'PLANEXWARE S.A', correo: 'cobranzas@planexware.com', correo2: 'renovaciones@planexware.com' },
   { nombre: 'POLIFIBRA SRL', correo: 'polifibra@hotmail.com' },
   { nombre: 'POSCA EMPAQUES S.R.L', correo: 'ventas@posca-empaques.com.ar' },
   { nombre: 'PRAXAIR', correo: 'arcobranzas@linde.com' },
