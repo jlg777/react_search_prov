@@ -116,7 +116,7 @@ const proveedores = [
     correo: 'cooperativa.alvarez@hotmail.com'
   },
   { nombre: 'CORPORACION LODRA', correo: 'cuentascorrientes@lodra.com.ar' },
-  {nombre: 'CRISOPA SRL', nombre: 'administracion@crisopa.com.ar'},
+  {nombre: 'CRISOPA SRL', correo: 'administracion@crisopa.com.ar'},
   { nombre: 'DICARS', correo: 'vangoindumentaria@gmail.com' },
   { nombre: 'DIMENSION S.A', correo: 'patricianarvaezdealterio@gmail.com' },
   {
