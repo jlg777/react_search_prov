@@ -44,6 +44,7 @@ const proveedores = [
     correo: 'administracion@arnoriaga.com.ar'
   },
   { nombre: 'ARPEX ARGENTINA', correo: 'gaveni@arpex.com.ar' },
+  { nombre: 'ASI ASESORES INDUSTRIALES S.R.L', correo: 'alonsoasisrl@gmail.com' },
   { nombre: 'ASOCIACION ARG. CODIFICACION PROD. COMER GS1', correo: 'cobranzas@gs1.org.ar' },
   {
     nombre: 'ASTIE DIESEL S.A ',
@@ -116,7 +117,7 @@ const proveedores = [
     correo: 'cooperativa.alvarez@hotmail.com'
   },
   { nombre: 'CORPORACION LODRA', correo: 'cuentascorrientes@lodra.com.ar' },
-  {nombre: 'CRISOPA SRL', correo: 'administracion@crisopa.com.ar'},
+  { nombre: 'CRISOPA SRL', correo: 'administracion@crisopa.com.ar' },
   { nombre: 'DICARS', correo: 'vangoindumentaria@gmail.com' },
   { nombre: 'DIMENSION S.A', correo: 'patricianarvaezdealterio@gmail.com' },
   {
@@ -279,7 +280,7 @@ const proveedores = [
     nombre: 'RODAMIENTOS AVENIDA S.A',
     correo: 'cobranzas@rodamientosavenida.com.ar'
   },
-  {nombre: 'GAGLIANO GUSTAVO', correo: 'cobranzas@rodamientosbrasil.com'},
+  { nombre: 'GAGLIANO GUSTAVO', correo: 'cobranzas@rodamientosbrasil.com' },
   { nombre: 'RODAMIENTOS CUYO', correo: 'gescames@rodamientoscuyo.coM' },
   { nombre: 'RODIN SRL', correo: 'dcappella@rodinsrl.com.ar' },
   {
