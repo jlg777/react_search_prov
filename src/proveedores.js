@@ -174,6 +174,7 @@ const proveedores = [
     correo: 'herramientas_industria@hotmail.com',
     correo2: 'herramientasservis@outlook.com.ar'
   },
+  {nombre: 'INDUSTRIAS PALLETS', correo: 'industriaspallets@hotmail.com'},
   {
     nombre: 'INAP S.R.L',
     correo: 'ventas@inapar.com.ar',
