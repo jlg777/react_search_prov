@@ -290,6 +290,7 @@ const proveedores = [
   },
   { nombre: 'ROLLS S.R.L', correo: 'fernandomoya@rolls.com.ar' },
   { nombre: 'ROSSO JORGE LUIS', correo: 'agencia@dhlmendoza.com.ar' },
+   {nombre: 'SABOREDO LUIS ALBERTO', correo: 'administracion@bullsoluciones.com', correo2: 'ventas@bullsoluciones.com'},
   { nombre: 'SAIGRO S.A', correo: 'administracion.mendoza@saigro.com.ar' },
   { nombre: 'SCANIA ARGENTINA', correo: 'antonella.ochoa@scania.com' },
   { nombre: 'SEND SA', correo: 'administracion@cadenorte.com' },
