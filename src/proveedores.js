@@ -174,7 +174,7 @@ const proveedores = [
     correo: 'herramientas_industria@hotmail.com',
     correo2: 'herramientasservis@outlook.com.ar'
   },
-  {nombre: 'INDUSTRIAS PALLETS', correo: 'industriaspallets@hotmail.com'},
+  { nombre: 'INDUSTRIAS PALLETS', correo: 'industriaspallets@hotmail.com' },
   {
     nombre: 'INAP S.R.L',
     correo: 'ventas@inapar.com.ar',
@@ -217,6 +217,7 @@ const proveedores = [
   { nombre: 'LAMA HERMINIO ALBERTO', correo: 'resorteslama@hotmail.com' },
   { nombre: 'LAROCCA NEUMATICOS S.A', correo: 'comprobantes@larocca.com.ar' },
   { nombre: 'LIVLASA', correo: 'info@livlasa.com' },
+  { nombre: 'MACHININGMG S.A.S', correo: 'mgmecanizados@yahoo.com.ar' },
   { nombre: 'MAG S.R.L', correo: 'administracion@magsrl.com.ar' },
   { nombre: 'MANTELLO NEUMATICO S.A', correo: 'mantello@infovia.com.ar' },
   { nombre: 'MAQ OIL SAIC', correo: 'maqoil@maqoil.com' },
@@ -290,7 +291,7 @@ const proveedores = [
   },
   { nombre: 'ROLLS S.R.L', correo: 'fernandomoya@rolls.com.ar' },
   { nombre: 'ROSSO JORGE LUIS', correo: 'agencia@dhlmendoza.com.ar' },
-   {nombre: 'SABOREDO LUIS ALBERTO', correo: 'administracion@bullsoluciones.com', correo2: 'ventas@bullsoluciones.com'},
+  { nombre: 'SABOREDO LUIS ALBERTO', correo: 'administracion@bullsoluciones.com', correo2: 'ventas@bullsoluciones.com' },
   { nombre: 'SAIGRO S.A', correo: 'administracion.mendoza@saigro.com.ar' },
   { nombre: 'SCANIA ARGENTINA', correo: 'antonella.ochoa@scania.com' },
   { nombre: 'SEND SA', correo: 'administracion@cadenorte.com' },
