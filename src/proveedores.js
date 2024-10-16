@@ -275,6 +275,7 @@ const proveedores = [
   },
   { nombre: 'QUIMICUY', correo: 'juan@quimicuy.com.ar' },
   { nombre: 'RAGA S.R.L', correo: 'sandra.gomez@raga.com.ar' },
+  {nombre: 'RC TRANSPORTES Y LOGISTICA S.A', correo: 'roberto@rctransportes.com.ar'},
   { nombre: 'REGIS S.A', correo: 'ventas@regissa.com' },
   { nombre: 'RENAUD', correo: 'tomasreynaud@outlook.com' },
   { nombre: 'REVITE S.A', correo: 'revitesamendoza@gmail.com' },
