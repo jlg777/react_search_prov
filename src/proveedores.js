@@ -116,7 +116,7 @@ const proveedores = [
     nombre: 'COOPERATIVA DE SERVICIO JA',
     correo: 'cooperativa.alvarez@hotmail.com'
   },
-  { nombre: 'CORPORACION LODRA', correo: 'cuentascorrientes@lodra.com.ar' },
+  { nombre: 'CORPORACION LODRA', correo: 'cuentascorrientes@lodra.com.ar', correo2: 'karina@lodra.com.ar' },
   { nombre: 'CRISOPA SRL', correo: 'administracion@crisopa.com.ar' },
   { nombre: 'DICARS', correo: 'vangoindumentaria@gmail.com' },
   { nombre: 'DIMENSION S.A', correo: 'patricianarvaezdealterio@gmail.com' },
@@ -201,7 +201,7 @@ const proveedores = [
   { nombre: 'JOSE BENTICUAGA E HIJO', correo: 'emilia@benticuaga.com.ar' },
   { nombre: 'JUJINOVICH ESTEBAN OMAR', correo: 'jujinovich0103@yahoo.com.ar' },
   { nombre: 'KATSUDA mendoza S.A.', correo: 'mendoza@katsuda.com.ar' },
-  {nombre: 'KATSUDA san juan', correo: 'sanjuan@katsuda.com.ar'},
+  { nombre: 'KATSUDA san juan', correo: 'sanjuan@katsuda.com.ar' },
   { nombre: 'KOENA S.A', correo: 'fernandocubells23@gmail.com' },
   {
     nombre: 'LA CAMIONERA MENDOCINA S.R.L',
@@ -218,7 +218,6 @@ const proveedores = [
   { nombre: 'LAMA HERMINIO ALBERTO', correo: 'resorteslama@hotmail.com' },
   { nombre: 'LAROCCA NEUMATICOS S.A', correo: 'comprobantes@larocca.com.ar' },
   { nombre: 'LIVLASA', correo: 'info@livlasa.com' },
-  { nombre: 'CORPORACION LODRA', correo: 'karina@lodra.com.ar' },
   { nombre: 'MACHININGMG S.A.S', correo: 'mgmecanizados@yahoo.com.ar' },
   { nombre: 'MAG S.R.L', correo: 'administracion@magsrl.com.ar' },
   { nombre: 'MANTELLO NEUMATICO S.A', correo: 'mantello@infovia.com.ar' },
