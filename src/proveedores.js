@@ -200,7 +200,8 @@ const proveedores = [
   },
   { nombre: 'JOSE BENTICUAGA E HIJO', correo: 'emilia@benticuaga.com.ar' },
   { nombre: 'JUJINOVICH ESTEBAN OMAR', correo: 'jujinovich0103@yahoo.com.ar' },
-  { nombre: 'KATSUDA S.A.', correo: 'mendoza@katsuda.com.ar' },
+  { nombre: 'KATSUDA mendoza S.A.', correo: 'mendoza@katsuda.com.ar' },
+  {nombre: 'KARSUDA san juan', correo: 'sanjuan@katsuda.com.ar'},
   { nombre: 'KOENA S.A', correo: 'fernandocubells23@gmail.com' },
   {
     nombre: 'LA CAMIONERA MENDOCINA S.R.L',
