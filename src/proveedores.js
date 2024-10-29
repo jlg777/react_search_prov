@@ -13,7 +13,7 @@ const proveedores = [
   { nombre: 'AGROMAQ SAN JUAN S.A', correo: 'kevmartinez@agromaqsanjuan.com', correo2: 'agromaqsanjuan@gmail.com' },
   {
     nombre: 'AGRO COSECHA',
-    correo: 'spereira@agrocosecha.com.arr',
+    correo: 'spereira@agrocosecha.com.ar',
   },
   {
     nombre: 'AGUA Y SANEAMIENTO MENDOZA',
