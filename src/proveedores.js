@@ -256,6 +256,7 @@ const proveedores = [
   { nombre: 'MORAGAS JAVIER HUMBERTO', correo: 'gringaiba22@gmail.com' },
   { nombre: 'MULTIMODAL SACIA (PTM)', correo: 'ctasctesptm@fiscalptm.com.ar' },
   { nombre: 'NIEVAS GUSTAVO ORLANDO', correo: 'gustavo@pamperomaipu.com.ar' },
+  {nombre: 'NUTRIENTES S.A.', correo: 'gcnutrientes@barceloempresas.com.ar'},
   { nombre: 'OESTE TRANSMISIONES S.A', correo: 'ventas@oestetransmisiones.com.ar' },
   { nombre: 'OLIVA JUAN JOSE', correo: 'transporte_oliva@hotmail.com' },
   { nombre: 'OSDE', correo: 'cobranzas-cuyo@osde.com.ar' },
