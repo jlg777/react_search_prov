@@ -251,6 +251,7 @@ const proveedores = [
     nombre: 'MILIOTTO MARCOS JAVIER',
     correo: 'electromecanicamarcosmiliotto@gmail.com'
   },
+  {nombre: 'MIODOWKY MARCELO EDUARDO', correo: 'administracion@faseelectricidad.com.ar', correo2: 'alejandrodiaz@faseelectricidad.com.ar'},
   { nombre: 'MOLINA SABRINA', correo: 'sam.integralservices@hotmail.com' },
   { nombre: 'MONTAGUA', correo: 'ventas@montagua.com.ar' },
   { nombre: 'MORAGAS JAVIER HUMBERTO', correo: 'gringaiba22@gmail.com' },
