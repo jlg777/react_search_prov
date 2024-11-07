@@ -10,10 +10,14 @@ const proveedores = [
   },
   { nombre: 'ACEROS CUYO', correo: 'ventas@aceroscuyosrl.com.ar' },
   { nombre: 'ACLIA', correo: 'maderas.iguazu2019@gmail.com' },
-  { nombre: 'AGROMAQ SAN JUAN S.A', correo: 'kevmartinez@agromaqsanjuan.com', correo2: 'agromaqsanjuan@gmail.com' },
+  {
+    nombre: 'AGROMAQ SAN JUAN S.A',
+    correo: 'kevmartinez@agromaqsanjuan.com',
+    correo2: 'agromaqsanjuan@gmail.com'
+  },
   {
     nombre: 'AGRO COSECHA',
-    correo: 'spereira@agrocosecha.com.ar',
+    correo: 'spereira@agrocosecha.com.ar'
   },
   {
     nombre: 'AGUA Y SANEAMIENTO MENDOZA',
@@ -115,7 +119,11 @@ const proveedores = [
     nombre: 'COOPERATIVA DE SERVICIO JA',
     correo: 'cooperativa.alvarez@hotmail.com'
   },
-  { nombre: 'CORPORACION LODRA', correo: 'cuentascorrientes@lodra.com.ar', correo2: 'karina@lodra.com.ar' },
+  {
+    nombre: 'CORPORACION LODRA',
+    correo: 'cuentascorrientes@lodra.com.ar',
+    correo2: 'karina@lodra.com.ar'
+  },
   { nombre: 'CRISOPA SRL', correo: 'administracion@crisopa.com.ar' },
   { nombre: 'DICARS', correo: 'vangoindumentaria@gmail.com' },
   { nombre: 'DIMENSION S.A', correo: 'patricianarvaezdealterio@gmail.com' },
@@ -181,6 +189,7 @@ const proveedores = [
   },
   { nombre: 'INDUSTRIA TEXTIL UNI MAX', correo: 'manuelfortugno60@gmail.com' },
   { nombre: 'INDUSTRIAS DARC', correo: 'cobranzas@clark.com.ar' },
+  { nombre: 'INDUSTRIAS PLASTICAS SAIFE S.R.L', correo: 'industriasplasticassaife@gmail.com' },
   { nombre: 'INDUSTRIAS QUIMICAS ALMIDAR', correo: '' },
   { nombre: 'INGENIERIA OZOLLO', correo: 'agro21@agro21sa.com' },
   { nombre: 'INSUMOS MULTIMARCA', correo: 'insumosmultimarca@gmail.com' },
@@ -251,13 +260,17 @@ const proveedores = [
     nombre: 'MILIOTTO MARCOS JAVIER',
     correo: 'electromecanicamarcosmiliotto@gmail.com'
   },
-  {nombre: 'MIODOWKY MARCELO EDUARDO', correo: 'administracion@faseelectricidad.com.ar', correo2: 'alejandrodiaz@faseelectricidad.com.ar'},
+  {
+    nombre: 'MIODOWKY MARCELO EDUARDO',
+    correo: 'administracion@faseelectricidad.com.ar',
+    correo2: 'alejandrodiaz@faseelectricidad.com.ar'
+  },
   { nombre: 'MOLINA SABRINA', correo: 'sam.integralservices@hotmail.com' },
   { nombre: 'MONTAGUA', correo: 'ventas@montagua.com.ar' },
   { nombre: 'MORAGAS JAVIER HUMBERTO', correo: 'gringaiba22@gmail.com' },
   { nombre: 'MULTIMODAL SACIA (PTM)', correo: 'ctasctesptm@fiscalptm.com.ar' },
   { nombre: 'NIEVAS GUSTAVO ORLANDO', correo: 'gustavo@pamperomaipu.com.ar' },
-  {nombre: 'NUTRIENTES S.A.', correo: 'gcnutrientes@barceloempresas.com.ar'},
+  { nombre: 'NUTRIENTES S.A.', correo: 'gcnutrientes@barceloempresas.com.ar' },
   { nombre: 'OESTE TRANSMISIONES S.A', correo: 'ventas@oestetransmisiones.com.ar' },
   { nombre: 'OLIVA JUAN JOSE', correo: 'transporte_oliva@hotmail.com' },
   { nombre: 'OSDE', correo: 'cobranzas-cuyo@osde.com.ar' },
@@ -265,7 +278,11 @@ const proveedores = [
   { nombre: 'PASTOR BARONI S.R.L', correo: 'claudia70_aguirre@hotmail.com' },
   { nombre: 'PETROQUIMICA RIO TERCERO', correo: 'grodriguez@pr3.com.ar' },
   { nombre: 'PINTURERIA COLOR', correo: 'pintureriacolorsa@gmail.com' },
-  { nombre: 'PLANEXWARE S.A', correo: 'cobranzas@planexware.com', correo2: 'renovaciones@planexware.com' },
+  {
+    nombre: 'PLANEXWARE S.A',
+    correo: 'cobranzas@planexware.com',
+    correo2: 'renovaciones@planexware.com'
+  },
   { nombre: 'POLIFIBRA SRL', correo: 'polifibra@hotmail.com' },
   { nombre: 'POSCA EMPAQUES S.R.L', correo: 'ventas@posca-empaques.com.ar' },
   { nombre: 'PRAXAIR', correo: 'arcobranzas@linde.com' },
@@ -294,7 +311,11 @@ const proveedores = [
   },
   { nombre: 'ROLLS S.R.L', correo: 'fernandomoya@rolls.com.ar' },
   { nombre: 'ROSSO JORGE LUIS', correo: 'agencia@dhlmendoza.com.ar' },
-  { nombre: 'SABOREDO LUIS ALBERTO', correo: 'administracion@bullsoluciones.com', correo2: 'ventas@bullsoluciones.com' },
+  {
+    nombre: 'SABOREDO LUIS ALBERTO',
+    correo: 'administracion@bullsoluciones.com',
+    correo2: 'ventas@bullsoluciones.com'
+  },
   { nombre: 'SAIGRO S.A', correo: 'administracion.mendoza@saigro.com.ar' },
   { nombre: 'SCANIA ARGENTINA', correo: 'antonella.ochoa@scania.com' },
   { nombre: 'SEND SA', correo: 'administracion@cadenorte.com' },
