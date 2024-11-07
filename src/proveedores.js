@@ -42,7 +42,7 @@ const proveedores = [
     nombre: 'ARNORIAGA JUAN DANIEL',
     correo: 'administracion@arnoriaga.com.ar'
   },
-  { nombre: 'ARPEX ARGENTINA', correo: 'gaveni@arpex.com.ar' },
+  { nombre: 'ARPEX ARGENTINA', correo: 'cobranza@arpex.com.ar' },
   { nombre: 'ASI ASESORES INDUSTRIALES S.R.L', correo: 'alonsoasisrl@gmail.com' },
   { nombre: 'ASOCIACION ARG. CODIFICACION PROD. COMER GS1', correo: 'cobranzas@gs1.org.ar' },
   {
