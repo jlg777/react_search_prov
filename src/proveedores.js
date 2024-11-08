@@ -157,6 +157,7 @@ const proveedores = [
   { nombre: 'FEDEMI SRL', correo: 'cobranzas@fedemi.com.ar' },
   { nombre: 'FERNANDEZ JOSE RICARDO', correo: 'ventas@rfmayorista.com.ar' },
   { nombre: 'FLEX PIPE S.A', correo: 'cobranzas.wae@gmail.com' },
+  {nombre: 'FRANCICA NICOLAS GASTON', correo: 'francicaraularturo@hotmail.com'},
   { nombre: 'GARRO LUIS ARNALDO', correo: 'electrovilla@hotmail.com.ar' },
   { nombre: 'GAS MERIDIONAL', correo: 'cobranzas@gasmeridional.com.ar' },
   { nombre: 'GILIGROUP SAS', correo: 'cobranza@saavedrasi.com.ar' },
