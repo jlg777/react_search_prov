@@ -125,6 +125,7 @@ const proveedores = [
     correo2: 'karina@lodra.com.ar'
   },
   { nombre: 'CRISOPA SRL', correo: 'administracion@crisopa.com.ar' },
+  {nombre: 'CRISTOFANI RICARDO JOSE Y TELECHEA', correo: 'crismet@sion.com'},
   { nombre: 'DICARS', correo: 'vangoindumentaria@gmail.com' },
   { nombre: 'DIMENSION S.A', correo: 'patricianarvaezdealterio@gmail.com' },
   {
@@ -157,7 +158,7 @@ const proveedores = [
   { nombre: 'FEDEMI SRL', correo: 'cobranzas@fedemi.com.ar' },
   { nombre: 'FERNANDEZ JOSE RICARDO', correo: 'ventas@rfmayorista.com.ar' },
   { nombre: 'FLEX PIPE S.A', correo: 'cobranzas.wae@gmail.com' },
-  {nombre: 'FRANCICA NICOLAS GASTON', correo: 'francicaraularturo@hotmail.com'},
+  { nombre: 'FRANCICA NICOLAS GASTON', correo: 'francicaraularturo@hotmail.com' },
   { nombre: 'GARRO LUIS ARNALDO', correo: 'electrovilla@hotmail.com.ar' },
   { nombre: 'GAS MERIDIONAL', correo: 'cobranzas@gasmeridional.com.ar' },
   { nombre: 'GILIGROUP SAS', correo: 'cobranza@saavedrasi.com.ar' },
@@ -322,6 +323,7 @@ const proveedores = [
   { nombre: 'SEND SA', correo: 'administracion@cadenorte.com' },
   { nombre: 'SERVEC SRL', correo: 'servecsrl@infovia.com.ar' },
   { nombre: 'SHOPAL S.R.L', correo: 'administracion@shopal.com.ar' },
+  { nombre: 'SIDERCHARP', correo: 'Creditos@hmaldonado.com.ar' },
   { nombre: 'SIERRA DIEGO', correo: 'diego.sierra.utn@gmail.com' },
   {
     nombre: 'SIMON SOLIVELLAS E HIJOS S.A',
