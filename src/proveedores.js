@@ -125,7 +125,7 @@ const proveedores = [
     correo2: 'karina@lodra.com.ar'
   },
   { nombre: 'CRISOPA SRL', correo: 'administracion@crisopa.com.ar' },
-  {nombre: 'CRISTOFANI RICARDO JOSE Y TELECHEA', correo: 'crismet@sion.com'},
+  { nombre: 'CRISTOFANI RICARDO JOSE Y TELECHEA', correo: 'crismet@sion.com' },
   { nombre: 'DICARS', correo: 'vangoindumentaria@gmail.com' },
   { nombre: 'DIMENSION S.A', correo: 'patricianarvaezdealterio@gmail.com' },
   {
@@ -296,6 +296,7 @@ const proveedores = [
   { nombre: 'QUIMICUY', correo: 'juan@quimicuy.com.ar' },
   { nombre: 'RAGA S.R.L', correo: 'sandra.gomez@raga.com.ar' },
   { nombre: 'RC TRANSPORTES Y LOGISTICA S.A', correo: 'roberto@rctransportes.com.ar' },
+  { nombre: 'REDES DEL OESTE', correo: 'avisostransferencias@gmail.com' },
   { nombre: 'REGIS S.A', correo: 'ventas@regissa.com' },
   { nombre: 'RENAUD', correo: 'tomasreynaud@outlook.com' },
   { nombre: 'REVITE S.A', correo: 'revitesamendoza@gmail.com' },
