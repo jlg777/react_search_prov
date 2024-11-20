@@ -143,6 +143,11 @@ const proveedores = [
   { nombre: 'ELECTRONICA MENDOZA S.A', correo: 'ventas@electronicamendoza.com.ar' },
   { nombre: 'ELECTROMECANICA SASSO S.A', correo: 'gladys.becerra@elesasso.com' },
   { nombre: 'ELECTRICIDAD MAZA S.R.L', correo: 'centro@electricidadmaza.com.ar' },
+  {
+    nombre: 'EL TOTORAL',
+    correo: 'gonzalo.lenzano@isolaasti.com.ar',
+    correo2: 'amaliab@enelec.com.ar'
+  },
   { nombre: 'EMMRO', correo: 'lonascanilla@gmail.com' },
   { nombre: 'EP MARTINELLI S.A.S', correo: 'epmartinelli@gmail.com' },
   { nombre: 'EQUIPOS COMPACTOS S.A', correo: 'aletomba@hotmail.com' },
@@ -210,6 +215,11 @@ const proveedores = [
   },
   { nombre: 'JOSE BENTICUAGA E HIJO', correo: 'emilia@benticuaga.com.ar' },
   { nombre: 'JUJINOVICH ESTEBAN OMAR', correo: 'jujinovich0103@yahoo.com.ar' },
+  {
+    nombre: 'K A P S.A',
+    correo: 'gonzalo.lenzano@isolaasti.com.ar',
+    correo2: 'amaliab@enelec.com.ar'
+  },
   { nombre: 'KATSUDA mendoza S.A.', correo: 'mendoza@katsuda.com.ar' },
   { nombre: 'KATSUDA san juan', correo: 'sanjuan@katsuda.com.ar' },
   { nombre: 'KOENA S.A', correo: 'fernandocubells23@gmail.com' },
