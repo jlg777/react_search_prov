@@ -142,7 +142,7 @@ const proveedores = [
   { nombre: 'ELECTRO DORREGO S.A.', correo: 'admin@electro-dorrego.com.ar' },
   { nombre: 'ELECTRONICA MENDOZA S.A', correo: 'ventas@electronicamendoza.com.ar' },
   { nombre: 'ELECTROMECANICA SASSO S.A', correo: 'gladys.becerra@elesasso.com' },
-  { nombre: 'ELECTRICIDAD MAZA S.R.L', correo: 'centro@electricidadmaza.com.ar' },
+  { nombre: 'ELECTRICIDAD MAZA S.R.L', correo: 'fjofre@electricidadmaza.com.ar', correo2: 'smarchiori@electricidadmaza.com.ar' },
   {
     nombre: 'EL TOTORAL',
     correo: 'gonzalo.lenzano@isolaasti.com.ar',
