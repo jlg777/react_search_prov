@@ -124,7 +124,7 @@ const proveedores = [
     correo: 'cuentascorrientes@lodra.com.ar',
     correo2: 'karina@lodra.com.ar'
   },
-  {nombre: 'COSTA ANTONIO EMILIO', correo: 'lucas@lumager.com.ar'},
+  { nombre: 'COSTA ANTONIO EMILIO', correo: 'lucas@lumager.com.ar' },
   { nombre: 'CRISOPA SRL', correo: 'administracion@crisopa.com.ar' },
   { nombre: 'CRISTOFANI RICARDO JOSE Y TELECHEA', correo: 'crismet@sion.com' },
   { nombre: 'DICARS', correo: 'vangoindumentaria@gmail.com' },
@@ -143,7 +143,11 @@ const proveedores = [
   { nombre: 'ELECTRO DORREGO S.A.', correo: 'admin@electro-dorrego.com.ar' },
   { nombre: 'ELECTRONICA MENDOZA S.A', correo: 'ventas@electronicamendoza.com.ar' },
   { nombre: 'ELECTROMECANICA SASSO S.A', correo: 'gladys.becerra@elesasso.com' },
-  { nombre: 'ELECTRICIDAD MAZA S.R.L', correo: 'fjofre@electricidadmaza.com.ar', correo2: 'smarchiori@electricidadmaza.com.ar' },
+  {
+    nombre: 'ELECTRICIDAD MAZA S.R.L',
+    correo: 'fjofre@electricidadmaza.com.ar',
+    correo2: 'smarchiori@electricidadmaza.com.ar'
+  },
   {
     nombre: 'EL TOTORAL',
     correo: 'gonzalo.lenzano@isolaasti.com.ar',
@@ -349,6 +353,11 @@ const proveedores = [
   { nombre: 'SOLUCIONES MRO SAIC', correo: 'pmoron@solucionesmro.com.ar' },
   { nombre: 'SOSA ROBERTO JAVIER', correo: 'n23uniformes@gmail.com' },
   {
+    nombre: 'STM ARGENTINA',
+    correo: 'comercial4@stmteam.com.ar',
+    correo2: 'facturacion@stmteam.com.ar'
+  },
+  {
     nombre: 'STOCK DE MATERIALES S.A.S',
     correo: 'ventas@stockdemateriales.com.ar'
   },
@@ -357,6 +366,7 @@ const proveedores = [
   { nombre: 'SUL MINEIRA S.A', correo: 'contaduria@sulmineira.com.ar' },
   { nombre: 'SUR INSUMOS', correo: 'administracion@disurmza.com' },
   { nombre: 'SURFACTAN', correo: 'dbertolini@surfactan.com.ar' },
+  { nombre: 'SUCESION DE MUSCOLINI RAUL HUMBERTO', correo: 'emuscolini@yahoo.com.ar' },
   { nombre: 'TAKSA S.A', correo: 'ventas@taksa.com.ar' },
   { nombre: 'TB LOGISTICA S.R.L', correo: 'info.mendoza@tblogistica.com' },
   {
