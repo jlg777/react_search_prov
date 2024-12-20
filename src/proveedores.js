@@ -156,6 +156,7 @@ const proveedores = [
   { nombre: 'EMMRO', correo: 'lonascanilla@gmail.com' },
   { nombre: 'EP MARTINELLI S.A.S', correo: 'epmartinelli@gmail.com' },
   { nombre: 'EQUIPOS COMPACTOS S.A', correo: 'aletomba@hotmail.com' },
+  { nombre: 'EROSTABE INGENIERIA S.R.L', correo: 'administracion@hqmax.com.ar' },
   { nombre: 'ESTECMA S.A', correo: 'luciano.bagnato@estecma.com.ar' },
   {
     nombre: 'ESTUDIO RULE RETALI SRL',
