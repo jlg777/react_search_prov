@@ -322,6 +322,7 @@ const proveedores = [
   },
   { nombre: 'GAGLIANO GUSTAVO', correo: 'cobranzas@rodamientosbrasil.com' },
   { nombre: 'RODAMIENTOS CUYO', correo: 'gescames@rodamientoscuyo.coM' },
+  { nombre: 'RODCAM S.A', correo: 'carlos@rodcam.com.ar' },
   { nombre: 'RODIN SRL', correo: 'dcappella@rodinsrl.com.ar' },
   {
     nombre: 'RODRIGUEZ HERMANOS TRANSPORTES',
