@@ -231,7 +231,8 @@ const proveedores = [
   { nombre: 'KOENA S.A', correo: 'fernandocubells23@gmail.com' },
   {
     nombre: 'LA CAMIONERA MENDOCINA S.R.L',
-    correo: 'cristianmoreno@camionera.com.ar'
+    correo: 'cristianmoreno@camionera.com.ar',
+    correo2: 'nicolasmoreno@camionera.com.ar'
   },
   {
     nombre: 'LA PRIMERA SEGURIDAD INTEGRAL',
