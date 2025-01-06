@@ -231,7 +231,8 @@ const proveedores = [
   { nombre: 'KOENA S.A', correo: 'fernandocubells23@gmail.com' },
   {
     nombre: 'LA CAMIONERA MENDOCINA S.R.L',
-    correo: 'cristianmoreno@camionera.com.ar'
+    correo: 'cristianmoreno@camionera.com.ar',
+    correo2: 'nicolasmoreno@camionera.com.ar'
   },
   {
     nombre: 'LA PRIMERA SEGURIDAD INTEGRAL',
@@ -377,7 +378,7 @@ const proveedores = [
   },
   { nombre: 'TERMET S.A', correo: 'raulanfuso01@gmail.com' },
   { nombre: 'TERSAC INDUSTRIAL S.R.L', correo: 'administracion@tersac.com.ar' },
-  { nombre: 'THINKCONNECT S.A.S', correo: 'info@thinkconnect.com.ar' },
+  { nombre: 'THINKCONNECT S.A.S', correo: 'cferromza@gmail.com' },
   { nombre: 'TIA INOX S.A', correo: 'megapack@megapack-argentina.com.ar' },
   { nombre: 'TOSO JUAN GUILLERMO', correo: 'monica.protec@tosojuan.com.ar' },
   { nombre: 'TOVER', correo: 'ventas@tover.com.ar' },
