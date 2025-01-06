@@ -377,7 +377,7 @@ const proveedores = [
   },
   { nombre: 'TERMET S.A', correo: 'raulanfuso01@gmail.com' },
   { nombre: 'TERSAC INDUSTRIAL S.R.L', correo: 'administracion@tersac.com.ar' },
-  { nombre: 'THINKCONNECT S.A.S', correo: 'info@thinkconnect.com.ar' },
+  { nombre: 'THINKCONNECT S.A.S', correo: 'cferromza@gmail.com' },
   { nombre: 'TIA INOX S.A', correo: 'megapack@megapack-argentina.com.ar' },
   { nombre: 'TOSO JUAN GUILLERMO', correo: 'monica.protec@tosojuan.com.ar' },
   { nombre: 'TOVER', correo: 'ventas@tover.com.ar' },
