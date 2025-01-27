@@ -47,6 +47,7 @@ const proveedores = [
     correo: 'administracion@arnoriaga.com.ar'
   },
   { nombre: 'ARPEX ARGENTINA', correo: 'cobranza@arpex.com.ar' },
+  { nombre: 'ASESORAMIENTO Y SERVICIO', correo: 'olivicola@asesoramientosyservicios.com' },
   { nombre: 'ASI ASESORES INDUSTRIALES S.R.L', correo: 'alonsoasisrl@gmail.com' },
   { nombre: 'ASOCIACION ARG. CODIFICACION PROD. COMER GS1', correo: 'cobranzas@gs1.org.ar' },
   {
@@ -92,7 +93,7 @@ const proveedores = [
   },
   {
     nombre: 'CAMARA DE COMERCIO EXTERIOR DE CUYO',
-    correo: 'carlafernandez@ccecuyo.com.ar'
+    correo: 'administracion1@ccecuyo.com.ar'
   },
   {
     nombre: 'CAMARGO E HIJOS CONTRUCCIONES S.A.S',
@@ -340,6 +341,7 @@ const proveedores = [
   { nombre: 'SAIGRO S.A', correo: 'administracion.mendoza@saigro.com.ar' },
   { nombre: 'SCANIA ARGENTINA', correo: 'antonella.ochoa@scania.com' },
   { nombre: 'SEND SA', correo: 'administracion@cadenorte.com' },
+  { nombre: 'SERVI-LUB S.A', correo: 'servilubs.a@live.com.ar' },
   { nombre: 'SERVEC SRL', correo: 'servecsrl@infovia.com.ar' },
   { nombre: 'SHOPAL S.R.L', correo: 'administracion@shopal.com.ar' },
   { nombre: 'SIDERCHARP', correo: 'Creditos@hmaldonado.com.ar' },
