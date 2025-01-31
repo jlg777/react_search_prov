@@ -111,6 +111,7 @@ const proveedores = [
   { nombre: 'CHEMICAL CENTER', correo: 'atriguy@chemicalcenter.com.ar' },
   { nombre: 'CLARA DEL VALLE', correo: 'graficakogan@hotmail.com' },
   { nombre: 'COLO ALBERTO', correo: 'ferreteriamendoza06@gmail.com' },
+  { nombre: 'COLO LUIS DAMIAN', correo: 'federalmotor@hotmail.com' },
   {
     nombre: 'COMPAÑÍA INTRODUCTORA DE BS AS S.A',
     correo: 'balmacedar@dosanclas.com.ar'
@@ -195,7 +196,7 @@ const proveedores = [
     correo: 'herramientas_industria@hotmail.com',
     correo2: 'herramientasservis@outlook.com.ar'
   },
-  {nombre: 'HORMISERV S.R.L', correo: 'adminmendoza@hormiserv.com.ar'},
+  { nombre: 'HORMISERV S.R.L', correo: 'adminmendoza@hormiserv.com.ar' },
   { nombre: 'INDUSTRIAS PALLETS', correo: 'industriaspallets@hotmail.com' },
   {
     nombre: 'INAP S.R.L',
@@ -344,6 +345,7 @@ const proveedores = [
   { nombre: 'SEND SA', correo: 'administracion@cadenorte.com' },
   { nombre: 'SERVI-LUB S.A', correo: 'servilubs.a@live.com.ar' },
   { nombre: 'SERVEC SRL', correo: 'servecsrl@infovia.com.ar' },
+  { nombre: 'SGS ARGENTINA S.A.', correo: 'ar.cobranzas@sgs.com', correo2: 'arsgsmail@sgs.com' },
   { nombre: 'SHOPAL S.R.L', correo: 'administracion@shopal.com.ar' },
   { nombre: 'SIDERCHARP', correo: 'Creditos@hmaldonado.com.ar' },
   { nombre: 'SIERRA DIEGO', correo: 'diego.sierra.utn@gmail.com' },
