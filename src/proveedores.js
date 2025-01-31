@@ -174,6 +174,7 @@ const proveedores = [
   { nombre: 'FRANCICA NICOLAS GASTON', correo: 'francicaraularturo@hotmail.com' },
   { nombre: 'GARRO LUIS ARNALDO', correo: 'electrovilla@hotmail.com.ar' },
   { nombre: 'GAS MERIDIONAL', correo: 'cobranzas@gasmeridional.com.ar' },
+  {nombre: 'GHIOTTO FABRIZIO MARIA SOLEDAD', correo: 'ventas@transporteamicci.com.ar'},
   { nombre: 'GILIGROUP SAS', correo: 'cobranza@saavedrasi.com.ar' },
   {
     nombre: 'GODOY ALEJANDRA FRANCISCA Y MARCO ADOLFO',
