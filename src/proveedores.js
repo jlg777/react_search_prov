@@ -388,6 +388,7 @@ const proveedores = [
   { nombre: 'TIA INOX S.A', correo: 'megapack@megapack-argentina.com.ar' },
   { nombre: 'TOSO JUAN GUILLERMO', correo: 'monica.protec@tosojuan.com.ar' },
   { nombre: 'TOVER', correo: 'ventas@tover.com.ar' },
+  {nombre: 'TRAMS S.A', correo: 'sanchez.claudio72@outlook.com.ar'},
   { nombre: 'TRANSPORTE FIOCHETTE', correo: 'lucasfiocch@gmail.com' },
   { nombre: 'TRANSPORTE TGH', correo: 'transportetgh@gmail.com' },
   { nombre: 'TRES GORDITOS', correo: 'tresgorditos@tresgorditos.com.ar' },
