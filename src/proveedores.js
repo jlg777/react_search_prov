@@ -156,7 +156,7 @@ const proveedores = [
     correo2: 'amaliab@enelec.com.ar'
   },
   { nombre: 'EMMRO', correo: 'lonascanilla@gmail.com' },
-  {nombre: 'ENOGRAFICA S.A', correo: 'analaura@enografica.com.ar'},
+  { nombre: 'ENOGRAFICA S.A', correo: 'analaura@enografica.com.ar' },
   { nombre: 'EP MARTINELLI S.A.S', correo: 'epmartinelli@gmail.com' },
   { nombre: 'EQUIPOS COMPACTOS S.A', correo: 'aletomba@hotmail.com' },
   { nombre: 'EROSTABE INGENIERIA S.R.L', correo: 'administracion@hqmax.com.ar' },
@@ -175,7 +175,7 @@ const proveedores = [
   { nombre: 'FRANCICA NICOLAS GASTON', correo: 'francicaraularturo@hotmail.com' },
   { nombre: 'GARRO LUIS ARNALDO', correo: 'electrovilla@hotmail.com.ar' },
   { nombre: 'GAS MERIDIONAL', correo: 'cobranzas@gasmeridional.com.ar' },
-  {nombre: 'GHIOTTO FABRIZIO MARIA SOLEDAD', correo: 'ventas@transporteamicci.com.ar'},
+  { nombre: 'GHIOTTO FABRIZIO MARIA SOLEDAD', correo: 'ventas@transporteamicci.com.ar' },
   { nombre: 'GILIGROUP SAS', correo: 'cobranza@saavedrasi.com.ar' },
   {
     nombre: 'GODOY ALEJANDRA FRANCISCA Y MARCO ADOLFO',
@@ -272,6 +272,11 @@ const proveedores = [
   {
     nombre: 'MASSARUTTI MAURICIO ADRIAN',
     correo: 'mauriciomassarutti@gmail.com'
+  },
+  {
+    nombre: 'MASTERAGRO S.A',
+    correo: 'apicon@masterinsumos.com.ar',
+    correo2: 'flavia@masterinsumos.com.ar'
   },
   {
     nombre: 'MATERIALES URQUIZA',
@@ -389,7 +394,7 @@ const proveedores = [
   { nombre: 'TIA INOX S.A', correo: 'megapack@megapack-argentina.com.ar' },
   { nombre: 'TOSO JUAN GUILLERMO', correo: 'monica.protec@tosojuan.com.ar' },
   { nombre: 'TOVER', correo: 'ventas@tover.com.ar' },
-  {nombre: 'TRAMS S.A', correo: 'sanchez.claudio72@outlook.com.ar'},
+  { nombre: 'TRAMS S.A', correo: 'sanchez.claudio72@outlook.com.ar' },
   { nombre: 'TRANSPORTE FIOCHETTE', correo: 'lucasfiocch@gmail.com' },
   { nombre: 'TRANSPORTE TGH', correo: 'transportetgh@gmail.com' },
   { nombre: 'TRES GORDITOS', correo: 'tresgorditos@tresgorditos.com.ar' },
