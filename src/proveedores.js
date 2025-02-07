@@ -156,6 +156,7 @@ const proveedores = [
     correo2: 'amaliab@enelec.com.ar'
   },
   { nombre: 'EMMRO', correo: 'lonascanilla@gmail.com' },
+  {nombre: 'ENOGRAFICA S.A', correo: 'analaura@enografica.com.ar'},
   { nombre: 'EP MARTINELLI S.A.S', correo: 'epmartinelli@gmail.com' },
   { nombre: 'EQUIPOS COMPACTOS S.A', correo: 'aletomba@hotmail.com' },
   { nombre: 'EROSTABE INGENIERIA S.R.L', correo: 'administracion@hqmax.com.ar' },
