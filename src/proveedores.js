@@ -117,6 +117,7 @@ const proveedores = [
     correo: 'balmacedar@dosanclas.com.ar'
   },
   { nombre: 'CONIGLIONE', correo: 'odconiglione@hotmail.com' },
+  { nombre: 'CONTRERAS ROBERTO CEFERINO', correo: 'metalagricola2017@hotmail.com' },
   {
     nombre: 'COOPERATIVA DE SERVICIO JA',
     correo: 'cooperativa.alvarez@hotmail.com'
@@ -352,7 +353,7 @@ const proveedores = [
   { nombre: 'SEND SA', correo: 'administracion@cadenorte.com' },
   { nombre: 'SERVI-LUB S.A', correo: 'servilubs.a@live.com.ar' },
   { nombre: 'SERVEC SRL', correo: 'calderasservec@gmail.com' },
-  {nombre: 'SEVILLE CAZORLA', correo: 'lmanzur@sevillecazorla.com'},
+  { nombre: 'SEVILLE CAZORLA', correo: 'lmanzur@sevillecazorla.com' },
   { nombre: 'SGS ARGENTINA S.A.', correo: 'ar.cobranzas@sgs.com', correo2: 'arsgsmail@sgs.com' },
   { nombre: 'SHOPAL S.R.L', correo: 'administracion@shopal.com.ar' },
   { nombre: 'SIDERCHARP', correo: 'Creditos@hmaldonado.com.ar' },
