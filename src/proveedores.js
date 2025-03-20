@@ -400,7 +400,7 @@ const proveedores = [
   { nombre: 'TRANSPORTE FIOCHETTE', correo: 'lucasfiocch@gmail.com' },
   { nombre: 'TRANSPORTE TGH', correo: 'transportetgh@gmail.com' },
   { nombre: 'TRES GORDITOS', correo: 'tresgorditos@tresgorditos.com.ar' },
-  { nombre: 'ULTIMA MILLA', correo: 'administracion@ultimamilla.com.ar' },
+  { nombre: 'UNICAL S.A', correo: 'unical@unical.com.ar' },
   { nombre: 'VALKIRIA S.A', correo: 'lorenamorales.cpn@gmail.com' },
   { nombre: 'VENDNET VUYO S.A', correo: 'vendnetcuyo@vendnetcuyo.com.ar' },
   { nombre: 'VIDEOJET', correo: 'gonzalo.peralta@videojet.com' },
