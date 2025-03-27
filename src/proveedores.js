@@ -101,6 +101,7 @@ const proveedores = [
   },
   { nombre: 'CARRASCO SAMUEL VICENTE', correo: 'tecni-ca@hotmail.com' },
   { nombre: 'CARTOCOR', correo: 'jmones@arcor.com' },
+  { nombre: 'CAVALO MELVYN DIEGO', correo: 'mcavalo@yahoo.com' },
   { nombre: 'CECCARELLI PAOLA', correo: 'ccconsultoracalidad@gmail.com' },
   { nombre: 'CENA MARCELO JAVIER', correo: 'marcelojaviercena@gmail.com' },
   {
