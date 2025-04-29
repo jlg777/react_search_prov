@@ -26,7 +26,7 @@ const proveedores = [
   },
   { nombre: 'AGUIRRE JORGE ALBERTO', correo: 'crjaguirre@gmail.com' },
   { nombre: 'AISLANTES DE CUYO S.A', correo: 'aiscuyo@speedy.com.ar' },
-  {nombre: 'ALLEX S.A', correo: 'cobranzas@neumancentro.com', correo2: 'vallee@neumacentro.com'},
+  { nombre: 'ALLEX S.A', correo: 'cobranzas@neumancentro.com', correo2: 'vallee@neumacentro.com' },
   { nombre: 'ALONSO HECTOR GUSTAVO', correo: 'halonso@amr-asociados.com.ar' },
   { nombre: 'ALPER QUIMICA', correo: 'domingo@alperquimica.com.ar' },
   { nombre: 'ALTEC SAN LUIS S.A', correo: 'c.roncayoli@grupoaltec.com.ar' },
