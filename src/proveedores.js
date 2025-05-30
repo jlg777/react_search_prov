@@ -213,6 +213,7 @@ const proveedores = [
   { nombre: 'INDUSTRIAS PLASTICAS SAIFE S.R.L', correo: 'industriasplasticassaife@gmail.com' },
   { nombre: 'INDUSTRIAS QUIMICAS ALMIDAR', correo: '' },
   { nombre: 'INGENIERIA OZOLLO', correo: 'agro21@agro21sa.com' },
+  {nombre: 'INMOBAL NUTRER', correo: 'luis.fabbiano@quimtia.com'},
   { nombre: 'INSUMOS MULTIMARCA', correo: 'insumosmultimarca@gmail.com' },
   { nombre: 'INTERCONTAINERS', correo: 'jimena@intercontainers-st.com.ar' },
   { nombre: 'INTI', correo: 'adminmza@inti.gob.ar' },
