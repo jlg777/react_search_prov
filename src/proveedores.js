@@ -114,6 +114,7 @@ const proveedores = [
   { nombre: 'CLARA DEL VALLE', correo: 'graficakogan@hotmail.com' },
   { nombre: 'COLO ALBERTO', correo: 'ferreteriamendoza06@gmail.com' },
   { nombre: 'COLO LUIS DAMIAN', correo: 'federalmotor@hotmail.com' },
+  { nombre: 'COMBUSTIBLE BARCELO', correo: 'Ventas@barceloempresas.com.ar' },
   {
     nombre: 'COMPAÑÍA INTRODUCTORA DE BS AS S.A',
     correo: 'balmacedar@dosanclas.com.ar'
@@ -213,7 +214,7 @@ const proveedores = [
   { nombre: 'INDUSTRIAS PLASTICAS SAIFE S.R.L', correo: 'industriasplasticassaife@gmail.com' },
   { nombre: 'INDUSTRIAS QUIMICAS ALMIDAR', correo: '' },
   { nombre: 'INGENIERIA OZOLLO', correo: 'agro21@agro21sa.com' },
-  {nombre: 'INMOBAL NUTRER', correo: 'luis.fabbiano@quimtia.com'},
+  { nombre: 'INMOBAL NUTRER', correo: 'luis.fabbiano@quimtia.com' },
   { nombre: 'INSUMOS MULTIMARCA', correo: 'insumosmultimarca@gmail.com' },
   { nombre: 'INTERCONTAINERS', correo: 'jimena@intercontainers-st.com.ar' },
   { nombre: 'INTI', correo: 'adminmza@inti.gob.ar' },
