@@ -56,6 +56,7 @@ const proveedores = [
     correo: 'ctasctesdistribuidor@astieypf.com.ar',
     correo2: 'ctasctesestacion@astieypf.com.ar'
   },
+  { correo: 'AUTOELEVDORES Y GRUAS RIZZO', correo: 'autoelevadoresygruasrizzosas@gmail.com' },
   {
     nombre: 'BALDINELLI GUERINO RAUL',
     correo: 'aalvarez@indias.com.ar'
