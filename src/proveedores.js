@@ -40,7 +40,7 @@ const proveedores = [
     nombre: 'APARICIO RICARDO',
     correo: 'administracion2@ricardoaparicio.com.ar'
   },
-  { nombre: 'ARDISON SOFTWARE S.R.L', correo: 'jguillaume@ardison.com' },
+  { nombre: 'ARDISON SOFTWARE S.R.L', correo: 'agonzalez@ardison.com' },
   { nombre: 'AREOPAGO S.A', correo: 'daniel@areopagosa.com.ar' },
   { nombre: 'ARGESWATER S.A', correo: 'info@argeswater.com.ar' },
   {
