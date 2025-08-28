@@ -145,6 +145,10 @@ const proveedores = [
     correo: "metalagricola2017@hotmail.com",
   },
   {
+    nombre: "CONTRUAL S.A",
+    correo: "adm@grupomat.com.ar",
+  },
+  {
     nombre: "COOPERATIVA DE SERVICIO JA",
     correo: "cooperativa.alvarez@hotmail.com",
   },
@@ -440,7 +444,7 @@ const proveedores = [
   },
   { nombre: "STONCOR SOUTH CONE", correo: "n_berton@stoncor.com.ar" },
   { nombre: "SIS TRANS S.A", correo: "administracion@surtecnica.com" },
-  { nombre: "SUL MINEIRA S.A", correo: "contaduria@sulmineira.com.ar" },
+  { nombre: "SUL MINEIRA S.A", correo: "danielp@sulmineira.ar" },
   { nombre: "SUR INSUMOS", correo: "administracion@disurmza.com" },
   { nombre: "SURFACTAN", correo: "dbertolini@surfactan.com.ar" },
   {
