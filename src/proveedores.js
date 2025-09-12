@@ -100,7 +100,7 @@ const proveedores = [
   },
   { nombre: "BONETO ALEXIS", correo: "construmasajb@gmail.com" },
   { nombre: "BROCHETTO GASTON AMADEO", correo: "gastonbrocchetto@gmail.com" },
-  { nombre: "BRENNTAG ARGENTINA S.A", correo: "Juan.Cruz@brenntag.com" },
+  { nombre: "BRENNTAG ARGENTINA S.A", correo: "horacio.billordo@brenntag.com" },
   { nombre: "BUENA VIBRA S.A", correo: "cuentas@postalurbana.com.ar" },
   {
     nombre: "BULONERA DEL OESTE S.A",
