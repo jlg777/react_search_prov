@@ -305,6 +305,7 @@ const proveedores = [
   { nombre: "LAROCCA NEUMATICOS S.A", correo: "comprobantes@larocca.com.ar" },
   { nombre: "LIVLASA", correo: "info@livlasa.com" },
   { nombre: "MACHININGMG S.A.S", correo: "mgmecanizados@yahoo.com.ar" },
+  { nombre: "METALURGICA CAMP", correo: "gustavovicario@hotmail.com" },
   { nombre: "MAG S.R.L", correo: "administracion@magsrl.com.ar" },
   { nombre: "MANTELLO NEUMATICO S.A", correo: "mantello@infovia.com.ar" },
   { nombre: "MAQ OIL SAIC", correo: "maqoil@maqoil.com" },
