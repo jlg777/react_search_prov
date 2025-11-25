@@ -11,6 +11,11 @@ const proveedores = [
   { nombre: "ACEROS CUYO", correo: "ventas@aceroscuyosrl.com.ar" },
   { nombre: "ACLIA", correo: "maderas.iguazu2019@gmail.com" },
   {
+    nombre: "A E B ARGENTINA",
+    correo: "mborrero@aebargentina.com.ar",
+    correo2: "cobranzas@aebargentina.com.ar",
+  },
+  {
     nombre: "AGROMAQ SAN JUAN S.A",
     correo: "kevmartinez@agromaqsanjuan.com",
     correo2: "agromaqsanjuan@gmail.com",
