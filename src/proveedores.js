@@ -294,6 +294,11 @@ const proveedores = [
   { nombre: "KATSUDA san juan", correo: "sanjuan@katsuda.com.ar" },
   { nombre: "KOENA S.A", correo: "fernandocubells23@gmail.com" },
   {
+    nombre: "LABOMED",
+    correo: "mendoza@labomedsa.com.ar",
+    correo2: "labomedsa@gmail.com",
+  },
+  {
     nombre: "LA CAMIONERA MENDOCINA S.R.L",
     correo: "cristianmoreno@camionera.com.ar",
     correo2: "nicolasmoreno@camionera.com.ar",
