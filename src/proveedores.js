@@ -4,10 +4,6 @@ const proveedores = [
     correo: "noeliacangialosi@gmail.com",
     correo2: "transportecangialosi@yahoo.com.ar",
   },
-  {
-    nombre: "ACCOR HOSPITALITY ARGENTINA S.A",
-    correo: "carolina.ufano@accor.com",
-  },
   { nombre: "ACEROS CUYO", correo: "ventas@aceroscuyosrl.com.ar" },
   { nombre: "ACLIA", correo: "maderas.iguazu2019@gmail.com" },
   {
@@ -30,6 +26,10 @@ const proveedores = [
     correo2: "grandesclientes@aysam.com.ar",
   },
   { nombre: "AGUIRRE JORGE ALBERTO", correo: "crjaguirre@gmail.com" },
+  {
+    nombre: "AHASA S.A",
+    correo: "carolina.ufano@accor.com",
+  },
   { nombre: "AISLANTES DE CUYO S.A", correo: "aiscuyo@speedy.com.ar" },
   {
     nombre: "ALLEX S.A",
