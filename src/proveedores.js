@@ -209,7 +209,7 @@ const proveedores = [
     nombre: "EROSTABE INGENIERIA S.R.L",
     correo: "administracion@hqmax.com.ar",
   },
-  { nombre: "ESTECMA S.A", correo: "luciano.bagnato@estecma.com.ar" },
+  { nombre: "ESTECMA S.A", correo: "administracion@estecma.com.ar" },
   {
     nombre: "ESTUDIO RULE RETALI SRL",
     correo: "administracion@ruleretali.com",
