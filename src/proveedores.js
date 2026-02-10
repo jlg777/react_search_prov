@@ -381,6 +381,7 @@ const proveedores = [
     correo: "cobranzas@planexware.com",
     correo2: "renovaciones@planexware.com",
   },
+  { nombre: "PLUSTEC", correo: "c.roncayoli@grupoaltec.com.ar" },
   { nombre: "POLIFIBRA SRL", correo: "polifibra@hotmail.com" },
   { nombre: "POSCA EMPAQUES S.R.L", correo: "ventas@posca-empaques.com.ar" },
   { nombre: "PRAXAIR", correo: "arcobranzas@linde.com" },
@@ -462,6 +463,7 @@ const proveedores = [
     nombre: "SUCESION DE MUSCOLINI RAUL HUMBERTO",
     correo: "emuscolini@yahoo.com.ar",
   },
+  { nombre: "TABORDA CRISTIAN JAVIER", correo: "ventas.cctap@gmail.com" },
   { nombre: "TAKSA S.A", correo: "ventas@taksa.com.ar" },
   { nombre: "TB LOGISTICA S.R.L", correo: "info.mendoza@tblogistica.com" },
   {
