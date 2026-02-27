@@ -93,7 +93,7 @@ const proveedores = [
     nombre: "BARROS Y DI MATTEO SRL",
     correo: "metalurgica_barrosydimatteo@yahoo.com.ar",
   },
-  {nombre: "BIOPLAGAS DE CUYO SAS",correo:"bioplagasdecuyo@gmail.com" },
+  { nombre: "BIOPLAGAS DE CUYO SAS", correo: "bioplagasdecuyo@gmail.com" },
   { nombre: "BIOTEC S.A", correo: "hdcalde@gmail.com" },
   { nombre: "BLANCO DANIEL ORLANDO", correo: "blancodaniel071@gmail.com" },
   {
@@ -315,6 +315,7 @@ const proveedores = [
   { nombre: "LAMA HERMINIO ALBERTO", correo: "resorteslama@hotmail.com" },
   { nombre: "LAROCCA NEUMATICOS S.A", correo: "comprobantes@larocca.com.ar" },
   { nombre: "LIVLASA", correo: "info@livlasa.com" },
+  { nombre: "M D AUTOELEVADORES", correo: "victoriadiaz@mdautoelevadores.com" },
   { nombre: "MACHININGMG S.A.S", correo: "mgmecanizados@yahoo.com.ar" },
   { nombre: "METALURGICA CAMP", correo: "gustavovicario@hotmail.com" },
   { nombre: "MAG S.R.L", correo: "administracion@magsrl.com.ar" },
