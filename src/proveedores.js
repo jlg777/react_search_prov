@@ -93,6 +93,7 @@ const proveedores = [
     nombre: "BARROS Y DI MATTEO SRL",
     correo: "metalurgica_barrosydimatteo@yahoo.com.ar",
   },
+  {nombre: "BIOPLAGAS DE CUYO SAS",correo:"bioplagasdecuyo@gmail.com" },
   { nombre: "BIOTEC S.A", correo: "hdcalde@gmail.com" },
   { nombre: "BLANCO DANIEL ORLANDO", correo: "blancodaniel071@gmail.com" },
   {
