@@ -39,6 +39,7 @@ const proveedores = [
   { nombre: "ALONSO HECTOR GUSTAVO", correo: "halonso@amr-asociados.com.ar" },
   { nombre: "ALPER QUIMICA", correo: "domingo@alperquimica.com.ar" },
   { nombre: "ALTEC SAN LUIS S.A", correo: "c.roncayoli@grupoaltec.com.ar" },
+  { nombre: "ANDRA", correo: "jmondati@indias.com.ar" },
   {
     nombre: "ANDRES MERINO PINTURERIAS S.A",
     correo: "laura@andres-merino.com.ar",
@@ -57,6 +58,10 @@ const proveedores = [
     correo: "administracion@arnoriaga.com.ar",
   },
   { nombre: "ARPEX ARGENTINA", correo: "cobranza@arpex.com.ar" },
+  {
+    nombre: "ARTES GRAFICAS MELFA",
+    correo: "aguirre@agmelfa.com.ar",
+  },
   {
     nombre: "ASESORAMIENTO Y SERVICIO",
     correo: "olivicola@asesoramientosyservicios.com",
@@ -366,6 +371,7 @@ const proveedores = [
   { nombre: "MONTAGUA", correo: "ventas@montagua.com.ar" },
   { nombre: "MORAGAS JAVIER HUMBERTO", correo: "gringaiba22@gmail.com" },
   { nombre: "MULTIMODAL SACIA (PTM)", correo: "ctasctesptm@fiscalptm.com.ar" },
+  { nombre: "NATURGY", correo: "recepcion.pagos@naturgy.com.ar" },
   { nombre: "NIEVAS GUSTAVO ORLANDO", correo: "gustavo@pamperomaipu.com.ar" },
   { nombre: "NUTRIENTES S.A.", correo: "gcnutrientes@barceloempresas.com.ar" },
   {
