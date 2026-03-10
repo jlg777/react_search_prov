@@ -46,10 +46,7 @@ const proveedores = [
     correo2: "florencia@andres-merino.com.ar",
   },
   { nombre: "ANKU S.R.L", correo: "dielec.me@gmail.com" },
-  {
-    nombre: "APARICIO RICARDO",
-    correo: "administracion2@ricardoaparicio.com.ar",
-  },
+
   { nombre: "ARDISON SOFTWARE S.R.L", correo: "agonzalez@ardison.com" },
   { nombre: "AREOPAGO S.A", correo: "daniel@areopagosa.com.ar" },
   { nombre: "ARGESWATER S.A", correo: "info@argeswater.com.ar" },
@@ -186,7 +183,10 @@ const proveedores = [
     correo: "CContreras@edemsa.com",
     correo2: "recaudaciones@edemsa.com",
   },
-
+  {
+    nombre: "EDERA",
+    correo: "administracion2@ricardoaparicio.com.ar",
+  },
   { nombre: "ELARTE SERVICIOS S.A", correo: "caguayo@elarteseguridad.com.ar" },
   { nombre: "ELECTRO DORREGO S.A.", correo: "admin@electro-dorrego.com.ar" },
   {
@@ -249,7 +249,6 @@ const proveedores = [
   },
   { nombre: "GONZALEZ VICENTE SALVADOR", correo: "indupint@indupint.com.ar" },
   { nombre: "GREIF ARGENTINA S.A.", correo: "LuisAlberto.Irustia@greif.com" },
-  { nombre: "GRUAS TRUCK S.A", correo: "administracion@gruastruck.com" },
   { nombre: "GRUPO IDF SAS", correo: "administracion@grupoidf.com.ar" },
   { nombre: "GUSTAVO DISTANTE", correo: "" },
   { nombre: "HABASIT", correo: "facturacion@habasit.com.ar" },
@@ -320,6 +319,7 @@ const proveedores = [
   { nombre: "LAMA HERMINIO ALBERTO", correo: "resorteslama@hotmail.com" },
   { nombre: "LAROCCA NEUMATICOS S.A", correo: "comprobantes@larocca.com.ar" },
   { nombre: "LIVLASA", correo: "info@livlasa.com" },
+  {nombre: "LOOPING" ,correo: "loopingrepuestos2004@yahoo.com.ar"},
   { nombre: "M D AUTOELEVADORES", correo: "victoriadiaz@mdautoelevadores.com" },
   { nombre: "MACHININGMG S.A.S", correo: "mgmecanizados@yahoo.com.ar" },
   { nombre: "METALURGICA CAMP", correo: "gustavovicario@hotmail.com" },
@@ -361,6 +361,11 @@ const proveedores = [
     nombre: "MILIOTTO MARCOS JAVIER",
     correo: "electromecanicamarcosmiliotto@gmail.com",
   },
+  {
+    nombre: "MILITELLO ELIZABETH DARMEN",
+    correo: "administracion@gruastruck.com",
+  },
+
   { nombre: "MILIUCHAS CARLOS ENRIQUE", correo: "carlosmili@yahoo.com.ar" },
   {
     nombre: "MIODOWKY MARCELO EDUARDO",
