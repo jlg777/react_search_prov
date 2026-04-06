@@ -326,6 +326,7 @@ const proveedores = [
   { nombre: "MAG S.R.L", correo: "administracion@magsrl.com.ar" },
   { nombre: "MANTELLO NEUMATICO S.A", correo: "mantello@infovia.com.ar" },
   { nombre: "MAQ OIL SAIC", correo: "maqoil@maqoil.com" },
+  {nombre: "MAQUIEVA S.R.L", correo: "maquieva@hotmail.com.ar"},
   {
     nombre: "MARCO VALLANA ACCES INDUSTRIALES SRL",
     correo: "administracion@marcovallana.com.ar",
