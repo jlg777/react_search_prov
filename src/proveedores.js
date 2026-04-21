@@ -199,8 +199,7 @@ const proveedores = [
   },
   {
     nombre: "ELECTRICIDAD MAZA S.R.L",
-    correo: "fjofre@electricidadmaza.com.ar",
-    correo2: "smarchiori@electricidadmaza.com.ar",
+    correo: "nmaldonado@electricidadmaza.com.ar",
   },
   {
     nombre: "EL TOTORAL",
@@ -319,14 +318,14 @@ const proveedores = [
   { nombre: "LAMA HERMINIO ALBERTO", correo: "resorteslama@hotmail.com" },
   { nombre: "LAROCCA NEUMATICOS S.A", correo: "comprobantes@larocca.com.ar" },
   { nombre: "LIVLASA", correo: "info@livlasa.com" },
-  {nombre: "LOOPING" ,correo: "loopingrepuestos2004@yahoo.com.ar"},
+  { nombre: "LOOPING", correo: "loopingrepuestos2004@yahoo.com.ar" },
   { nombre: "M D AUTOELEVADORES", correo: "victoriadiaz@mdautoelevadores.com" },
   { nombre: "MACHININGMG S.A.S", correo: "mgmecanizados@yahoo.com.ar" },
   { nombre: "METALURGICA CAMP", correo: "gustavovicario@hotmail.com" },
   { nombre: "MAG S.R.L", correo: "administracion@magsrl.com.ar" },
   { nombre: "MANTELLO NEUMATICO S.A", correo: "mantello@infovia.com.ar" },
   { nombre: "MAQ OIL SAIC", correo: "maqoil@maqoil.com" },
-  {nombre: "MAQUIEVA S.R.L", correo: "maquieva@hotmail.com.ar"},
+  { nombre: "MAQUIEVA S.R.L", correo: "maquieva@hotmail.com.ar" },
   {
     nombre: "MARCO VALLANA ACCES INDUSTRIALES SRL",
     correo: "administracion@marcovallana.com.ar",
@@ -479,7 +478,7 @@ const proveedores = [
   },
   { nombre: "TABORDA CRISTIAN JAVIER", correo: "ventas.cctap@gmail.com" },
   { nombre: "TAKSA S.A", correo: "ventas@taksa.com.ar" },
-  { nombre: "TB LOGISTICA S.R.L", correo: "info.mendoza@tblogistica.com" },
+  { nombre: "TB LOGISTICA S.R.L", correo: "viviana.leo@tblogistica.com" },
   {
     nombre: "TELEFONICA MOVILES DE ARGENTINA",
     correo: "miguel.quagliarella@telefonica.com",
