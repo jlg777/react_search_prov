@@ -202,6 +202,10 @@ const proveedores = [
     correo: "nmaldonado@electricidadmaza.com.ar",
   },
   {
+    nombre: "EL DEPODITO S.R.L",
+    correo: "Ventas@eldeposito.com.ar",
+  },
+  {
     nombre: "EL TOTORAL",
     correo: "gonzalo.lenzano@isolaasti.com.ar",
     correo2: "amaliab@enelec.com.ar",
@@ -384,6 +388,7 @@ const proveedores = [
     correo: "ventas@oestetransmisiones.com.ar",
   },
   { nombre: "OLIVA JUAN JOSE", correo: "transporte_oliva@hotmail.com" },
+  { nombre: "OLIVES DE LOUEST S.R.L", correo: "raulballerini@me.com" },
   { nombre: "OSDE", correo: "cobranzas-cuyo@osde.com.ar" },
   { nombre: "OXIGAS SRL", correo: "oxigassrl@yahoo.com.ar" },
   { nombre: "PASTOR BARONI S.R.L", correo: "claudia70_aguirre@hotmail.com" },
