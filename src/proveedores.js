@@ -252,6 +252,11 @@ const proveedores = [
   },
   { nombre: "GONZALEZ VICENTE SALVADOR", correo: "indupint@indupint.com.ar" },
   { nombre: "GREIF ARGENTINA S.A.", correo: "LuisAlberto.Irustia@greif.com" },
+  {
+    nombre: "GRUPO ABC S.A",
+    correo: "administracionmza@lubricantesmalaisi.com.ar",
+    correo2: "saulmontaya@gmail.com",
+  },
   { nombre: "GRUPO IDF SAS", correo: "administracion@grupoidf.com.ar" },
   { nombre: "GUSTAVO DISTANTE", correo: "" },
   { nombre: "HABASIT", correo: "facturacion@habasit.com.ar" },
