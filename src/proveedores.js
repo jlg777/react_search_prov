@@ -409,6 +409,7 @@ const proveedores = [
   { nombre: "POLIFIBRA SRL", correo: "polifibra@hotmail.com" },
   { nombre: "POSCA EMPAQUES S.R.L", correo: "ventas@posca-empaques.com.ar" },
   { nombre: "PRAXAIR", correo: "arcobranzas@linde.com" },
+  { nombre: "PROBELT", correo: "administracion@probelt.com.ar" },
   { nombre: "PROPACK S.A", correo: "facturacion@propacksa.com.ar" },
   {
     nombre: "PROVEEDORES INDUSTRIALES NOR-FER S.R.L",
