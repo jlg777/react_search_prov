@@ -284,6 +284,7 @@ const proveedores = [
   { nombre: "INMOBAL NUTRER", correo: "luis.fabbiano@quimtia.com" },
   { nombre: "INSUMOS MULTIMARCA", correo: "insumosmultimarca@gmail.com" },
   { nombre: "INTERCONTAINERS", correo: "jimena@intercontainers-st.com.ar" },
+  { nombre: "INTER WEST", correo: "sabrina.ruozi@interwest.com.ar" },
   { nombre: "INTI", correo: "adminmza@inti.gob.ar" },
   {
     nombre: "INZIRILLO RUBEN MIGUEL Y ORLANDO ROQUE",
