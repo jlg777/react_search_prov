@@ -45,6 +45,7 @@ const proveedores = [
     correo: "laura@andres-merino.com.ar",
     correo2: "florencia@andres-merino.com.ar",
   },
+  { nombre: "ANDRES MORETTI E HIJOS", correo: "hernanb@moretti.com.ar" },
   { nombre: "ANKU S.R.L", correo: "dielec.me@gmail.com" },
 
   { nombre: "ARDISON SOFTWARE S.R.L", correo: "agonzalez@ardison.com" },
@@ -500,6 +501,7 @@ const proveedores = [
   { nombre: "TERSAC INDUSTRIAL S.R.L", correo: "administracion@tersac.com.ar" },
   { nombre: "THINKCONNECT S.A.S", correo: "cferromza@gmail.com" },
   { nombre: "TIA INOX S.A", correo: "megapack@megapack-argentina.com.ar" },
+  { nombre: "TOLIN ALDO", correo: "admin@aldotolin.com" },
   {
     nombre: "TOSO JUAN GUILLERMO",
     correo: "monica.protec@tosojuan.com.ar",
