@@ -236,6 +236,7 @@ const proveedores = [
     nombre: "FRANCICA NICOLAS GASTON",
     correo: "francicaraularturo@hotmail.com",
   },
+  { nombre: "GARGANO LOGISTICA", correo: "finanzas@gargano.com.ar" },
   { nombre: "GARRO LUIS ARNALDO", correo: "electrovilla@hotmail.com.ar" },
   { nombre: "GAS MERIDIONAL", correo: "cobranzas@gasmeridional.com.ar" },
   {
