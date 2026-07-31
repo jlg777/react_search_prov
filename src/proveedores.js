@@ -170,6 +170,7 @@ const proveedores = [
   { nombre: "COSTA ANTONIO EMILIO", correo: "lucas@lumager.com.ar" },
   { nombre: "CRISOPA SRL", correo: "administracion@crisopa.com.ar" },
   { nombre: "CRISTOFANI RICARDO JOSE Y TELECHEA", correo: "crismet@sion.com" },
+  { nombre: "DEPOSITO FISCAL NORTE S.A", correo: "pcutuli@dfba.com.ar" },
   { nombre: "DICARS", correo: "vangoindumentaria@gmail.com" },
   { nombre: "DIMENSION S.A", correo: "patricianarvaezdealterio@gmail.com" },
   {
@@ -330,6 +331,7 @@ const proveedores = [
   },
   { nombre: "LAMA HERMINIO ALBERTO", correo: "resorteslama@hotmail.com" },
   { nombre: "LAROCCA NEUMATICOS S.A", correo: "comprobantes@larocca.com.ar" },
+  { nombre: "LA RURAL", correo: "cobranzas@larural.com.ar" },
   { nombre: "LIVLASA", correo: "info@livlasa.com" },
   { nombre: "LOOPING", correo: "loopingrepuestos2004@yahoo.com.ar" },
   { nombre: "M D AUTOELEVADORES", correo: "victoriadiaz@mdautoelevadores.com" },
@@ -414,6 +416,7 @@ const proveedores = [
   { nombre: "PRAXAIR", correo: "arcobranzas@linde.com" },
   { nombre: "PROBELT", correo: "administracion@probelt.com.ar" },
   { nombre: "PROPACK S.A", correo: "facturacion@propacksa.com.ar" },
+  { nombre: "PROPEL S.A", correo: "logistica@propelsa.com" },
   {
     nombre: "PROVEEDORES INDUSTRIALES NOR-FER S.R.L",
     correo: "ecostarelli@nor-fer.com.ar",
@@ -429,6 +432,7 @@ const proveedores = [
   { nombre: "RENAUD", correo: "tomasreynaud@outlook.com" },
   { nombre: "REVITE S.A", correo: "revitesamendoza@gmail.com" },
   { nombre: "RICHELET", correo: "info@richelet.com.ar" },
+  { nombre: "RIO PLOMO S.A", correo: "ventas@rioplomo.com.ar" },
   {
     nombre: "RODAMIENTOS AVENIDA S.A",
     correo: "cobranzas@rodamientosavenida.com.ar",
@@ -510,6 +514,7 @@ const proveedores = [
   },
   { nombre: "TOVER", correo: "ventas@tover.com.ar" },
   { nombre: "TRAMS S.A", correo: "sanchez.claudio72@outlook.com.ar" },
+  { nombre: "TRANSCARGO S.A", correo: "mbasile@transcargoarg.com" },
   { nombre: "TRANSPORTE FIOCHETTE", correo: "lucasfiocch@gmail.com" },
   { nombre: "TRANSPORTE TGH", correo: "transportetgh@gmail.com" },
   { nombre: "TRES GORDITOS", correo: "tresgorditos@tresgorditos.com.ar" },
