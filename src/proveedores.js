@@ -170,6 +170,7 @@ const proveedores = [
   { nombre: "COSTA ANTONIO EMILIO", correo: "lucas@lumager.com.ar" },
   { nombre: "CRISOPA SRL", correo: "administracion@crisopa.com.ar" },
   { nombre: "CRISTOFANI RICARDO JOSE Y TELECHEA", correo: "crismet@sion.com" },
+  { nombre: "DEPOSITO FISCAL NORTE S.A", correo: "pcutuli@dfba.com.ar" },
   { nombre: "DICARS", correo: "vangoindumentaria@gmail.com" },
   { nombre: "DIMENSION S.A", correo: "patricianarvaezdealterio@gmail.com" },
   {
@@ -513,7 +514,7 @@ const proveedores = [
   },
   { nombre: "TOVER", correo: "ventas@tover.com.ar" },
   { nombre: "TRAMS S.A", correo: "sanchez.claudio72@outlook.com.ar" },
-  {nombre: "TRANSCARGO S.A" , correo: "mbasile@transcargoarg.com"},
+  { nombre: "TRANSCARGO S.A", correo: "mbasile@transcargoarg.com" },
   { nombre: "TRANSPORTE FIOCHETTE", correo: "lucasfiocch@gmail.com" },
   { nombre: "TRANSPORTE TGH", correo: "transportetgh@gmail.com" },
   { nombre: "TRES GORDITOS", correo: "tresgorditos@tresgorditos.com.ar" },
