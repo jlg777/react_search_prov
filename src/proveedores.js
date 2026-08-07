@@ -81,6 +81,7 @@ const proveedores = [
     nombre: "AUTOELEVDORES Y GRUAS RIZZO",
     correo: "autoelevadoresygruasrizzosas@gmail.com",
   },
+  { nombre: "BACA LOGISTICA CUYO SAS", correo: "ventas@distribuidorabaca.com" },
   {
     nombre: "BALDINELLI GUERINO RAUL",
     correo: "jmondati@indias.com.ar",
@@ -236,6 +237,10 @@ const proveedores = [
   {
     nombre: "FRANCICA NICOLAS GASTON",
     correo: "francicaraularturo@hotmail.com",
+  },
+  {
+    nombre: "FULL CONTAINER LOGISTIC ARGENTINA SAS",
+    correo: "franco.m@grupofcl.com",
   },
   { nombre: "GARGANO LOGISTICA", correo: "finanzas@gargano.com.ar" },
   { nombre: "GARRO LUIS ARNALDO", correo: "electrovilla@hotmail.com.ar" },
