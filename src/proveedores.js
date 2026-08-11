@@ -39,6 +39,10 @@ const proveedores = [
   { nombre: "ALONSO HECTOR GUSTAVO", correo: "halonso@amr-asociados.com.ar" },
   { nombre: "ALPER QUIMICA", correo: "domingo@alperquimica.com.ar" },
   { nombre: "ALTEC SAN LUIS S.A", correo: "c.roncayoli@grupoaltec.com.ar" },
+  {
+    nombre: "AMCOR FLEXIBLES SAN LUIS S.A",
+    correo: "Mariano.Maneyro@amcor.com",
+  },
   { nombre: "ANDRA", correo: "jmondati@indias.com.ar" },
   {
     nombre: "ANDRES MERINO PINTURERIAS S.A",
@@ -173,6 +177,10 @@ const proveedores = [
   { nombre: "CRISTOFANI RICARDO JOSE Y TELECHEA", correo: "crismet@sion.com" },
   { nombre: "DEPOSITO FISCAL NORTE S.A", correo: "pcutuli@dfba.com.ar" },
   { nombre: "DICARS", correo: "vangoindumentaria@gmail.com" },
+  {
+    nombre: "DIESEL LANGE S.R.L",
+    correo: "Fernandezguillermo@diesellange.com.ar",
+  },
   { nombre: "DIMENSION S.A", correo: "patricianarvaezdealterio@gmail.com" },
   {
     nombre: "DISTRIBUIDORA DE GAS CUYANA",
@@ -376,6 +384,7 @@ const proveedores = [
     correo2: "1900carignano@gmail.com",
   },
   { nombre: "MEGAENVASES S.A", correo: "admin2@mega-envases.com.ar" },
+  { nombre: "METALIR S.A.S", correo: "metalirsas@gmail.com" },
   { nombre: "METALVID S.A", correo: "bejartap@gmail.com" },
   {
     nombre: "MILIOTTO MARCOS JAVIER",
