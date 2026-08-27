@@ -1,25 +1,23 @@
-import { useEffect, useState } from "react";
-import proveedores from "../proveedores";
+import { useEffect, useState } from 'react'
+import proveedores from '../proveedores'
 
 const Resultados = ({ inputFilter }) => {
-  const [resultados, setResultados] = useState([]);
+  const [resultados, setResultados] = useState([])
 
   useEffect(() => {
     const filterProv = proveedores.filter((prov) => {
-      return prov.nombre.toLowerCase().includes(inputFilter.toLowerCase()); // Comparación insensible a mayúsculas y minúsculas
-    });
+      const nombre = prov.nombre || ''
+      return nombre.toLowerCase().includes(inputFilter.toLowerCase())
+    })
 
-    setResultados(filterProv); // Actualiza los resultados filtrados
-  }, [inputFilter]);
+    setResultados(filterProv) // Actualiza los resultados filtrados
+  }, [inputFilter])
 
   return (
     <div>
       {resultados.length > 0 ? (
         resultados.map((resultado, index) => (
-          <div
-            key={index}
-            style={{ border: "1px solid", marginBottom: "10px" }}
-          >
+          <div key={index} style={{ border: '1px solid', marginBottom: '10px' }}>
             <h3>{resultado.nombre}</h3>
             {resultado.correo2 ? (
               <a
@@ -37,11 +35,11 @@ const Resultados = ({ inputFilter }) => {
           </div>
         ))
       ) : (
-        <div style={{ border: "1px solid" }}>
-          <h3 style={{ color: "red" }}>¡No hay resultados!</h3>
+        <div style={{ border: '1px solid' }}>
+          <h3 style={{ color: 'red' }}>¡No hay resultados!</h3>
         </div>
       )}
     </div>
-  );
-};
-export default Resultados;
+  )
+}
+export default Resultados
