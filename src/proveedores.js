@@ -283,6 +283,7 @@ const proveedores = [
     correo: "herramientas_industria@hotmail.com",
     correo2: "herramientasservis@outlook.com.ar",
   },
+  { nombre: "HEREDIA WALTER DANIEL", correo: "electrovillataller@gmail.com" },
   { nombre: "HORMISERV S.R.L", correo: "adminmendoza@hormiserv.com.ar" },
   { nombre: "INDUSTRIAS PALLETS", correo: "industriaspallets@hotmail.com" },
   {
