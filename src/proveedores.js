@@ -283,6 +283,7 @@ const proveedores = [
     correo: "herramientas_industria@hotmail.com",
     correo2: "herramientasservis@outlook.com.ar",
   },
+  { nombre: "HEREDIA WALTER DANIEL", correo: "electrovillataller@gmail.com" },
   { nombre: "HORMISERV S.R.L", correo: "adminmendoza@hormiserv.com.ar" },
   { nombre: "INDUSTRIAS PALLETS", correo: "industriaspallets@hotmail.com" },
   {
@@ -351,7 +352,7 @@ const proveedores = [
   { nombre: "MACHININGMG S.A.S", correo: "mgmecanizados@yahoo.com.ar" },
   { nombre: "METALURGICA CAMP", correo: "gustavovicario@hotmail.com" },
   { nombre: "MAG S.R.L", correo: "administracion@magsrl.com.ar" },
-  { nombre: "MANTELLO NEUMATICO S.A", correo: "mantello@infovia.com.ar" },
+  { nombre: "MANTELLO NEUMATICO S.A", correo: "davidjforconi@gmail.com" },
   { nombre: "MAQ OIL SAIC", correo: "maqoil@maqoil.com" },
   { nombre: "MAQUIEVA S.R.L", correo: "maquieva@hotmail.com.ar" },
   {
